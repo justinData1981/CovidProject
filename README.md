@@ -6,6 +6,7 @@ SQL
 Python
 JavaScript
 HTML
+jupyter notebook
 
 ### A brief articulation of your chosen topic and rationale
 
